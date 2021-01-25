@@ -1,6 +1,10 @@
 
 Website : http://ue4resources.com/ 
 
+Twitter : https://twitter.com/HoussineMehnik
+
+Note : Replication is not supported ( These examples use a Pawn + a Custom Movement Component )
+
 Unreal Engine 4 : Custom Gravity Plugin
 ----------------------------------------
 
